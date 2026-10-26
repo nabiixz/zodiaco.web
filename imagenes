@@ -1,1 +1,62 @@
-
+<ol>
+    <li>
+        Aries
+        <img src="aries.jpeg" alt="Signo Aries" width="150">
+        <p>Aries es el primer signo del zodiaco, simboliza el fuego, la valentia y la energia</p>
+    </li>
+    <li>
+        Tauro
+        <img src="tauro.jpeg" alt="Signo Tauro" width="150">
+        <p>Tauro representa la tierra, la estabilidad, la paciencia y la determicacion</p>
+    </li>
+    <li>
+        Geminis
+        <img src="geminis.jpeg" alt="Signo Geminis" width="150">
+        <p>Geminis es un signo de aire, se asocia con la comunicacion, la curiosidad y la dudalidad</p>
+    </li>
+    <li>
+        Cancer
+        <img src="cancer.jpeg" alt="Signo Cancer" width="150">
+        <p>Cancer es un signo de agua, representa el hogar, la sensibilidad y la proteccion familiar</p>
+    </li>
+    <li>
+        Leo
+        <img src="leo.jpeg" alt="Signo Leo" width="150">
+        <p>Leo es un signo de fuego, simboliza el liderazgo, la confianza y la creatividad</p>
+    </li>
+    <li>
+     Virgo 
+     <img src="virgo.jpeg" alt="Signo Virgo" width="150">
+     <p>Virgo es un signo de tierra, se relaciona con el orden, el detalle y la responsabilidad.</p>
+   </li>
+   <li>
+     Libra 
+     <img src="libra.jpeg" alt="Signo Libra" width="150">
+     <p>Libra es un signo de aire, representa el equilibrio, la justicia y la armonia.</p>
+   </li>
+   <li>
+     Escorpio 
+     <img src="escorpio.jpeg" alt="Signo Escorpio" width="150">
+     <p>Escorpio es un signo de agua, simboliza la pasion, la transformacion y la profundidad.</p>
+   </li>
+   <li>
+     Sagitario 
+     <img src="sagitario.jpeg" alt="Signo Sagitario" width="150">
+     <p>Sagitario es un signo de fuego, representa la libertad, el optimismo y la aventura.</p>
+   </li>
+   <li>
+     Capricornio 
+     <img src="capricornio.jpeg" alt="Signo Capricornio" width="150">
+     <p>Capricornio es un signo de tierra, simboliza la disciplina, la ambicion y la constancia.</p>
+   </li>
+   <li>
+     Acuario 
+     <img src="acuario.jpeg" alt="Signo Acuario" width="150">
+     <p>Acuario es un signo de aire, representa la innovacion, la independencia y la libertad.</p>
+   </li>
+   <li>
+     Piscis 
+     <img src="piscis.jpeg" alt="Signo Piscis" width="150">
+     <p>Piscis es un signo de agua, simboliza la sensibilidad, la intuicion y la creatividad.</p>
+   </li>
+</ol>
