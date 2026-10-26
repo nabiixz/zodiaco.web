@@ -9,7 +9,30 @@
 
   <h1>Mi página de signos zodiacales</h1>
 
- 
+ <ol>
+    <li>Aries</li>
+    <li>Tauro</li>
+    <li>Geminis</li>
+    <li>Cancer</li>
+    <li>Leo</li>
+    <li>Virgo</li>
+    <li>Libra</li>
+    <li>Escorpio</li>
+    <li>Sagitario</li>
+    <li>Capricornio</li>
+    <li>Acuario</li>
+    <li>Piscis</li>
+</ol>
+
+
+
+
+
+
+
+
+
+
 
 </body>
 </html>
